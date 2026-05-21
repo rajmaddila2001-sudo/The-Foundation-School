@@ -62,7 +62,7 @@ The Foundation School project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/TilakGollapudi/The-Foundation-School.git
+git clone https://github.com/rajmaddila2001-sudo/The-Foundation-School.git
 ```
 
 ### 2. Open in IDE
